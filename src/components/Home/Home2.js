@@ -19,7 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             "Building innovative solutions with a blend of development expertise and strong management skills. Currently pursuing a management course to enhance leadership and strategic capabilities."
+              I fell in love with programming and I have at least learnt
+              something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
@@ -66,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/MayankJain97/port-folio"
+                  href="https://github.com/soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
